@@ -1,51 +1,131 @@
-# Hi, I'm Bhuvan
-
-AI Engineer & Full-Stack Developer · B.Tech CSE Student
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvan-madhusudhan-623108145/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/79N4xG51Sc/)
-[![Email](https://img.shields.io/badge/Email-bhuvanmadhu2005%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:bhuvanmadhu2005@gmail.com)
-
-I build end-to-end AI and web products — from ML models to the interfaces around them. Currently digging into agentic AI and scalable systems, and steadily working through problems on [LeetCode](https://leetcode.com/u/79N4xG51Sc/).
-
-## Projects
-
-**[TalentIQ](#)** — AI interview platform with real-time coding, video, and automated evaluation.
-`React` `Node.js` `WebRTC` `AI/ML`
-
-**[E-Commerce Platform](#)** — Full MERN stack storefront with an admin dashboard.
-`MongoDB` `Express` `React` `Node.js`
-
-**[AI Desktop Assistant](#)** — Voice-controlled automation for desktop workflows.
-`Python` `Speech Recognition` `Automation`
-
-**[XXE Injection Tool](#)** — Security testing tool for XML external entity vulnerabilities.
-`React` `Flask` `AppSec`
-
-> Swap the `#` links above for your actual repo URLs.
-
-## Stack
-
-**Languages** — Python, Java, C++, JavaScript
-**AI / ML** — TensorFlow, PyTorch, Scikit-learn
-**Web** — React, Node.js, Express (MERN)
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bhuvanlord0602&show_icons=true&theme=default&hide_border=true&hide_title=true" height="165" align="center"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanlord0602&layout=compact&theme=default&hide_border=true&hide_title=true" height="165" align="center"/>
-
-## Reach Out
-
-Open to interesting AI/full-stack work and collaboration — [LinkedIn](https://www.linkedin.com/in/bhuvan-madhusudhan-623108145/) or [email](mailto:bhuvanmadhu2005@gmail.com) works best.
+<h1 align="center">Hey 👋, I'm Bhuvan</h1>
+<h3 align="center">💻 AI Engineer | 🚀 Full-Stack Developer | ⚡ Builder</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;I+build+real+projects;Always+learning+🚀" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhuvanlord0602&label=Profile+Views&color=ff69b4&style=flat" />
+</p>
+---
+## 🧠 About Me
+<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+- 🎓 B.Tech CSE student passionate about **real-world AI systems**
+- 🤖 Working on **Machine Learning, Deep Learning & GenAI**
+- 🛠️ Building **end-to-end products (AI + Web + Systems)**
+- ⚡ Believe in **learning by building**
+- 🧩 Solved 1000+ coding problems  
+- 🚀 Exploring **Agentic AI & scalable systems**
+---
+## ⚙️ Tech Stack
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+---
+## 🚀 Projects
+🔥 **TalentIQ – AI Interview Platform**  
+→ Real-time coding + video + evaluation  
+🛒 **E-Commerce Platform**  
+→ Full MERN stack with admin dashboard  
+🤖 **AI Desktop Assistant**  
+→ Voice-controlled automation system  
+🔐 **XXE Injection Tool**  
+→ Security testing tool (React + Flask)  
+---
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvanlord0602&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanlord0602&theme=radical" />
+</p>
+---
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhuvan-madhusudhan-623108145/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bhuvan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:bhuvanmadhu2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+---
+## 💀 Dev Quote
+> “First, solve the problem. Then, write the code.”
+---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhuvanlord0602&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+<h1 align="center">Hey 👋, I'm Bhuvan</h1>
+<h3 align="center">💻 AI Engineer | 🚀 Full-Stack Developer | ⚡ Builder</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;I+build+real+projects;Always+learning+🚀" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhuvanlord0602&label=Profile+Views&color=ff69b4&style=flat" />
+</p>
+---
+## 🧠 About Me
+<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+- 🎓 B.Tech CSE student passionate about **real-world AI systems**
+- 🤖 Working on **Machine Learning, Deep Learning & GenAI**
+- 🛠️ Building **end-to-end products (AI + Web + Systems)**
+- ⚡ Believe in **learning by building**
+- 🧩 Solved 1000+ coding problems  
+- 🚀 Exploring **Agentic AI & scalable systems**
+---
+## ⚙️ Tech Stack
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+---
+## 🚀 Projects
+🔥 **TalentIQ – AI Interview Platform**  
+→ Real-time coding + video + evaluation  
+🛒 **E-Commerce Platform**  
+→ Full MERN stack with admin dashboard  
+🤖 **AI Desktop Assistant**  
+→ Voice-controlled automation system  
+🔐 **XXE Injection Tool**  
+→ Security testing tool (React + Flask)  
+---
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvanlord0602&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanlord0602&theme=radical" />
+</p>
+---
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhuvan-madhusudhan-623108145/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bhuvan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:bhuvanmadhu2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+---
+## 💀 Dev Quote
+> “First, solve the problem. Then, write the code.”
+---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhuvanlord0602&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+[79N4xG51Sc - LeetCode Profile](https://leetcode.com/u/79N4xG51Sc/) can u add in readme file and make it better and super

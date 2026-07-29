@@ -135,21 +135,35 @@ Security testing tool (React + Flask)
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhuvanlord0602&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanlord0602&theme=tokyonight&hide_border=true"/>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Bhuvanlord0602&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D8D&icon_color=FF4D8D&border_radius=10"/>
+</td>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanlord0602&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4D8D&fire=FF4D8D&border_radius=10"/>
+</td>
+</tr>
+</table>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanlord0602&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanlord0602&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D8D&border_radius=10"/>
+</td>
+<td width="45%" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bhuvanlord0602&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D8D&border_radius=10"/>
+<br/><sub>↑ Only renders if you connect <a href="https://wakatime.com">WakaTime</a>; remove this block otherwise.</sub>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuvanlord0602&theme=tokyo-night"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuvanlord0602&theme=tokyo-night&bg_color=0D1117&color=FF4D8D&line=FF4D8D&point=ffffff&hide_border=true"/>
 </p>
 
 ---
@@ -157,7 +171,7 @@ Security testing tool (React + Flask)
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bhuvanlord0602&theme=tokyonight&row=1&column=7&no-frame=true"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bhuvanlord0602&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=8&margin-h=8"/>
 </p>
 
 ---

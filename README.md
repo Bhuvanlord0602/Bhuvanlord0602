@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Bhuvan Madhusudhan
+  Hi <img src="https://api.iconify.design/mdi:hand-wave.svg?color=%23FF4D8D" width="30" align="center"/>, I'm Bhuvan Madhusudhan
 </h1>
 
 <h3 align="center">
@@ -24,26 +24,26 @@ AI Engineer • Full Stack Developer • Open Source Enthusiast
 
 ---
 
-### 💫 About Me
+### <img src="https://api.iconify.design/mdi:sparkles.svg?color=%23FF4D8D" width="22" align="center"/> About Me
 
 <img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- 🎓 B.Tech CSE (AI & ML) student
-- 🤖 Passionate about AI, Machine Learning, and GenAI
-- 🚀 Building production-ready, end-to-end AI + web products
-- 💻 Full-stack developer (MERN)
-- 🧩 Actively sharpening problem-solving skills on LeetCode
-- 🌱 Currently deep-diving into:
+- <img src="https://api.iconify.design/mdi:school.svg?color=%23FF4D8D" width="16" align="center"/> B.Tech CSE (AI & ML) student
+- <img src="https://api.iconify.design/mdi:robot.svg?color=%23FF4D8D" width="16" align="center"/> Passionate about AI, Machine Learning, and GenAI
+- <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%23FF4D8D" width="16" align="center"/> Building production-ready, end-to-end AI + web products
+- <img src="https://api.iconify.design/mdi:laptop.svg?color=%23FF4D8D" width="16" align="center"/> Full-stack developer (MERN)
+- <img src="https://api.iconify.design/mdi:puzzle.svg?color=%23FF4D8D" width="16" align="center"/> Actively sharpening problem-solving skills on LeetCode
+- <img src="https://api.iconify.design/mdi:sprout.svg?color=%23FF4D8D" width="16" align="center"/> Currently deep-diving into:
   - Agentic AI
   - Multi-Agent Systems
   - LLM Engineering
   - MLOps
 
-> ⚡ **Fun Fact:** I believe the best way to learn is by building real products.
+> <img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%23FF4D8D" width="16" align="center"/> **Fun Fact:** I believe the best way to learn is by building real products.
 
 ---
 
-### 🌐 Connect with Me
+### <img src="https://api.iconify.design/mdi:web.svg?color=%23FF4D8D" width="22" align="center"/> Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bhuvan-madhusudhan-623108145/">
@@ -59,7 +59,7 @@ AI Engineer • Full Stack Developer • Open Source Enthusiast
 
 ---
 
-### 💻 Tech Stack
+### <img src="https://api.iconify.design/mdi:laptop-code.svg?color=%23FF4D8D" width="22" align="center"/> Tech Stack
 
 **Languages**
 <p><img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript"/></p>
@@ -77,13 +77,13 @@ AI Engineer • Full Stack Developer • Open Source Enthusiast
 
 ---
 
-### 🚀 Featured Projects
+### <img src="https://api.iconify.design/mdi:rocket-launch-outline.svg?color=%23FF4D8D" width="22" align="center"/> Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-**🤖 [TalentIQ](https://github.com/Bhuvanlord0602)**
+**<img src="https://api.iconify.design/mdi:robot-outline.svg?color=%23FF4D8D" width="16" align="center"/> [TalentIQ](https://github.com/Bhuvanlord0602)**
 AI-powered interview platform
 - Live coding & video interviews
 - AI-driven evaluation & resume analysis
@@ -92,7 +92,7 @@ AI-powered interview platform
 </td>
 <td width="50%">
 
-**🛒 MERN E-Commerce**
+**<img src="https://api.iconify.design/mdi:cart-outline.svg?color=%23FF4D8D" width="16" align="center"/> MERN E-Commerce**
 Full-featured online store
 - Auth & payment integration
 - Admin dashboard & product management
@@ -103,7 +103,7 @@ Full-featured online store
 <tr>
 <td width="50%">
 
-**🖥️ AI Desktop Assistant**
+**<img src="https://api.iconify.design/mdi:monitor.svg?color=%23FF4D8D" width="16" align="center"/> AI Desktop Assistant**
 Voice-controlled automation
 - Application launcher
 - ChatGPT integration
@@ -112,7 +112,7 @@ Voice-controlled automation
 </td>
 <td width="50%">
 
-**🔐 XXE Injection Scanner**
+**<img src="https://api.iconify.design/mdi:shield-lock-outline.svg?color=%23FF4D8D" width="16" align="center"/> XXE Injection Scanner**
 Security testing tool (React + Flask)
 - XML analysis
 - Vulnerability detection
@@ -123,7 +123,7 @@ Security testing tool (React + Flask)
 
 ---
 
-### 📈 Coding Profile
+### <img src="https://api.iconify.design/mdi:chart-line.svg?color=%23FF4D8D" width="22" align="center"/> Coding Profile
 
 <p align="center">
 <a href="https://leetcode.com/u/79N4xG51Sc/">
@@ -133,12 +133,12 @@ Security testing tool (React + Flask)
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://api.iconify.design/mdi:chart-box-outline.svg?color=%23FF4D8D" width="22" align="center"/> GitHub Stats
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Bhuvanlord0602&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D8D&icon_color=FF4D8D&border_radius=10"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Bhuvanlord0602&show_icons=true&theme=tokyonight&hide_border=true"/>
 </td>
 <td width="50%" valign="top">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanlord0602&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4D8D&fire=FF4D8D&border_radius=10"/>
@@ -146,21 +146,13 @@ Security testing tool (React + Flask)
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanlord0602&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D8D&border_radius=10"/>
-</td>
-<td width="45%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bhuvanlord0602&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D8D&border_radius=10"/>
-<br/><sub>↑ Only renders if you connect <a href="https://wakatime.com">WakaTime</a>; remove this block otherwise.</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanlord0602&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 📈 GitHub Activity
+### <img src="https://api.iconify.design/mdi:chart-timeline-variant.svg?color=%23FF4D8D" width="22" align="center"/> GitHub Activity
 
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuvanlord0602&theme=tokyo-night&bg_color=0D1117&color=FF4D8D&line=FF4D8D&point=ffffff&hide_border=true"/>
@@ -168,7 +160,7 @@ Security testing tool (React + Flask)
 
 ---
 
-### 🏆 GitHub Trophies
+### <img src="https://api.iconify.design/mdi:trophy-outline.svg?color=%23FF4D8D" width="22" align="center"/> GitHub Trophies
 
 <p align="center">
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bhuvanlord0602&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=8&margin-h=8"/>
@@ -176,7 +168,7 @@ Security testing tool (React + Flask)
 
 ---
 
-### 🐍 Contribution Snake
+### <img src="https://api.iconify.design/game-icons:snake.svg?color=%23FF4D8D" width="22" align="center"/> Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Bhuvanlord0602/Bhuvanlord0602/output/github-contribution-grid-snake-dark.svg"/>
@@ -186,8 +178,8 @@ Security testing tool (React + Flask)
 
 ---
 
-### 💡 Quote
+### <img src="https://api.iconify.design/mdi:lightbulb-on-outline.svg?color=%23FF4D8D" width="22" align="center"/> Quote
 
 > "First, solve the problem. Then, write the code."
 
-<p align="center">⭐️ From <b>Bhuvan Madhusudhan</b></p>
+<p align="center"><img src="https://api.iconify.design/mdi:star.svg?color=%23FF4D8D" width="16" align="center"/> From <b>Bhuvan Madhusudhan</b></p>

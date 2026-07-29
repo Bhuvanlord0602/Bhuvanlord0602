@@ -138,7 +138,7 @@ Security testing tool (React + Flask)
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Bhuvanlord0602&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats-eight-gold-71.vercel.app/api?username=Bhuvanlord0602&show_icons=true&theme=tokyonight&hide_border=true"/>
 </td>
 <td width="50%" valign="top">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanlord0602&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4D8D&fire=FF4D8D&border_radius=10"/>
@@ -147,7 +147,7 @@ Security testing tool (React + Flask)
 </table>
 
 <p align="center">
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanlord0602&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-stats-eight-gold-71.vercel.app/api/top-langs/?username=Bhuvanlord0602&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---

@@ -1,0 +1,21 @@
+name: Update LeetCode Card
+
+on:
+
+  workflow_dispatch:
+
+  schedule:
+
+    - cron: "0 12 * * *"
+
+jobs:
+
+  update:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Refresh
+
+        run: echo "LeetCode card updates automatically."

@@ -1,0 +1,21 @@
+name: Trophy
+
+on:
+
+  workflow_dispatch:
+
+  schedule:
+
+    - cron: "0 5 * * *"
+
+jobs:
+
+  trophy:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Trophy
+
+        run: echo "GitHub Trophy updates automatically through README URL."

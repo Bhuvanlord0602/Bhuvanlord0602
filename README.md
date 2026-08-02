@@ -30,6 +30,19 @@
 
 ---
 
+```console
+Bhuvan@dev:~$ whoami
+> AI Engineer & Full Stack Developer | B.Tech CSE (AI & ML)
+
+Bhuvan@dev:~$ cat current_focus.txt
+> Agentic AI · Multi-Agent Systems · LLM Engineering · MLOps
+
+Bhuvan@dev:~$ echo $MOTTO
+> "First, solve the problem. Then, write the code."
+```
+
+---
+
 ### <img src="https://api.iconify.design/mdi:sprout.svg?color=%23FF4D8D" width="22" align="center"/> Currently Deep-Diving Into
 
 <p align="center">
@@ -77,6 +90,31 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 </p>
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+`Python`
+![](https://progress-bar.dev/90/?color=ff4d8d&width=250)
+`JavaScript / TypeScript`
+![](https://progress-bar.dev/85/?color=ff4d8d&width=250)
+`Machine Learning (PyTorch/TF)`
+![](https://progress-bar.dev/80/?color=ff4d8d&width=250)
+
+</td>
+<td width="50%">
+
+`React / Node.js (MERN)`
+![](https://progress-bar.dev/85/?color=ff4d8d&width=250)
+`Java / C++`
+![](https://progress-bar.dev/75/?color=ff4d8d&width=250)
+`LLM / Agentic AI Tooling`
+![](https://progress-bar.dev/70/?color=ff4d8d&width=250)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -173,9 +211,11 @@ Security testing tool (React + Flask)
 
 ---
 
-### <img src="https://api.iconify.design/mdi:lightbulb-on-outline.svg?color=%23FF4D8D" width="22" align="center"/> Quote
+### <img src="https://api.iconify.design/mdi:lightbulb-on-outline.svg?color=%23FF4D8D" width="22" align="center"/> Random Dev Wisdom
 
-> "First, solve the problem. Then, write the code."
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D8D,100:0D1117&height=120&section=footer"/>

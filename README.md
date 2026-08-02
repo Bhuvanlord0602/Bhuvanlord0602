@@ -543,3 +543,316 @@ Open Source
 ```
 
 ---
+# root@bhuvan-ai:~$ telemetry
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                       AI MISSION CONTROL                            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  SYSTEM STATUS         🟢 ONLINE                                     ║
+║  AI ENGINE            🟢 ACTIVE                                      ║
+║  LLM CORE             🟢 RUNNING                                     ║
+║  VISION ENGINE        🟢 RUNNING                                     ║
+║  CLOUD                🟢 CONNECTED                                   ║
+║  OPEN SOURCE          🟢 ENABLED                                     ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# root@bhuvan-ai:~$ watch github
+
+```text
+SYSTEM TELEMETRY
+
+Repositories
+
+████████████████████████████████
+
+Commits
+
+██████████████████████████████████████
+
+Pull Requests
+
+██████████████████████████
+
+Issues Solved
+
+████████████████████████████
+
+Code Reviews
+
+██████████████████████
+
+LeetCode
+
+██████████████████████████████
+
+Learning Speed
+
+██████████████████████████████████
+```
+
+---
+
+# root@bhuvan-ai:~$ network
+
+```text
+╔═══════════════════════════════════════════╗
+
+Developer Network
+
+GitHub      ● CONNECTED
+
+LinkedIn    ● CONNECTED
+
+LeetCode    ● CONNECTED
+
+Open Source ● CONNECTED
+
+AI Community ● CONNECTED
+
+Status
+
+ONLINE
+
+╚═══════════════════════════════════════════╝
+```
+
+---
+
+# root@bhuvan-ai:~$ nvidia-smi
+
+```text
++-----------------------------------------------------------------------------+
+
+GPU STATUS
+
+Device
+
+RTX AI ENGINE
+
+Temperature
+
+63°C
+
+Power Usage
+
+192W
+
+GPU Usage
+
+██████████████████████████ 88%
+
+Memory
+
+██████████████████ 13GB / 16GB
+
+CUDA
+
+Enabled
+
+Tensor Cores
+
+Active
+
+Inference
+
+Running
+
++-----------------------------------------------------------------------------+
+```
+
+---
+
+# root@bhuvan-ai:~$ top
+
+```text
+PID     PROCESS                     CPU
+
+1024    talentiq-ai                 21%
+
+1025    yolo-runtime                17%
+
+1026    llm-agent                   26%
+
+1027    backend-api                 8%
+
+1028    frontend                    4%
+
+1029    postgres                    3%
+
+1030    docker                      5%
+
+1031    vscode                      16%
+```
+
+---
+
+# root@bhuvan-ai:~$ git status
+
+```text
+On branch main
+
+Your branch is ahead of origin/main
+
+Changes to be committed
+
+✔ AI Projects
+
+✔ Open Source
+
+✔ Computer Vision
+
+✔ Full Stack Development
+
+✔ LLM Engineering
+
+✔ Agentic AI
+
+✔ Learning Everyday
+
+nothing to commit,
+working tree clean
+```
+
+---
+
+# root@bhuvan-ai:~$ mission
+
+```text
+MISSION OBJECTIVES
+
+[✔] Build AI Products
+
+[✔] Learn by Building
+
+[✔] Open Source
+
+[✔] Full Stack Engineering
+
+[ ] Launch AI Startup
+
+[ ] Reach 1000 GitHub Stars
+
+[ ] Master Kubernetes
+
+[ ] Become AI Software Engineer
+```
+
+---
+
+# root@bhuvan-ai:~$ cat achievements.log
+
+```text
+2024
+
+• Started Building AI Projects
+
+• Computer Vision
+
+• MERN Stack
+
+────────────────────────────
+
+2025
+
+• YOLO Projects
+
+• AI Desktop Assistant
+
+• Full Stack Applications
+
+────────────────────────────
+
+2026
+
+• TalentIQ
+
+• Agentic AI
+
+• LLM Engineering
+
+• Industry Internship
+
+────────────────────────────
+
+NEXT
+
+• AI Startup
+
+• Open Source
+
+• Global Products
+```
+
+---
+
+# root@bhuvan-ai:~$ tail motivation.txt
+
+```text
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Fail();
+
+    Improve();
+
+    Repeat();
+
+}
+```
+
+---
+
+# root@bhuvan-ai:~$ cat currently_running
+
+```text
+🟢 TalentIQ
+
+🟢 AI Vision Runtime
+
+🟢 AI Desktop Assistant
+
+🟢 Agentic AI Research
+
+🟢 MERN Development
+
+🟢 LeetCode
+
+🟢 Open Source
+```
+
+---
+
+# root@bhuvan-ai:~$ history
+
+```text
+1  git init
+
+2  learn cpp
+
+3  build projects
+
+4  learn python
+
+5  discover AI
+
+6  build computer vision
+
+7  build TalentIQ
+
+8  learn LLMs
+
+9  build agents
+
+10 keep shipping 🚀
+```
+
+---

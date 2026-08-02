@@ -160,14 +160,6 @@ Security testing tool (React + Flask)
 
 ---
 
-### <img src="https://api.iconify.design/mdi:trophy-outline.svg?color=%23FF4D8D" width="22" align="center"/> GitHub Trophies
-
-<p align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bhuvanlord0602&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=8&margin-h=8"/>
-</p>
-
----
-
 ### <img src="https://api.iconify.design/game-icons:snake.svg?color=%23FF4D8D" width="22" align="center"/> Contribution Snake
 
 <p align="center">

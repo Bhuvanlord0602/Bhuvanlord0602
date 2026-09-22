@@ -33,31 +33,13 @@
 
 ---
 
-```text
-root@bhuvan-ai:~$ boot
+<div align="center">
 
-Initializing AI Operating System...
+<img src="./assets/terminal-boot.svg" width="100%" alt="AI OS boot sequence"/>
 
-[██████████████████████████████████] Neural Engine Loaded
+</div>
 
-[██████████████████████████████████] Vision Runtime Loaded
-
-[██████████████████████████████████] LLM Runtime Loaded
-
-[██████████████████████████████████] Agent Framework Loaded
-
-[██████████████████████████████████] Cloud Runtime Loaded
-
-Authentication Successful
-
-Welcome back,
-
-Bhuvan Madhusudhan
-
-Status : ONLINE 🟢
-
-root@bhuvan-ai:~$
-```
+<sub align="center">↑ this loops on its own — real progress bars filling, blinking cursor, no click needed</sub>
 
 ---
 
@@ -127,15 +109,11 @@ Mission:
 
 # root@bhuvan-ai:~$ systemctl status
 
-| Service | Status |
-|----------|--------|
-| AI Engine | 🟢 Running |
-| LLM Runtime | 🟢 Running |
-| Computer Vision | 🟢 Running |
-| Agent Framework | 🟢 Running |
-| Backend Services | 🟢 Running |
-| Cloud Sync | 🟢 Running |
-| Coffee Engine | ☕ Required |
+<div align="center">
+
+<img src="./assets/terminal-systemctl.svg" width="100%" alt="systemctl status animation"/>
+
+</div>
 
 ---
 

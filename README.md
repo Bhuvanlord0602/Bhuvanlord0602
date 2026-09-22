@@ -39,7 +39,6 @@
 
 </div>
 
-<sub align="center">↑ this loops on its own — real progress bars filling, blinking cursor, no click needed</sub>
 
 ---
 

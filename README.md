@@ -81,29 +81,11 @@ Mission:
 
 # root@bhuvan-ai:~$ neofetch
 
-```text
+<div align="center">
 
-             .-/+oossssoo+/-.               Developer :: Bhuvan Madhusudhan
+<img src="./assets/terminal-neofetch.svg" width="100%" alt="neofetch animation"/>
 
-         `:+ssssssssssssssssss+:`           OS        :: AI OS v5.0
-
-       -+ssssssssssssssssssyyssss+-         Kernel    :: Neural Kernel
-
-     .ossssssssssssssssssdMMMNysssso.       Runtime   :: Python 3.x
-
-    /ssssssssssshdmmNNmmyNMMMMhssssss/      Shell     :: zsh
-
-   +ssssssssshmydMMMMMMMNddddyssssssss+     Editor    :: VS Code
-
-  /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    AI Core   :: ACTIVE
-
- .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Vision    :: ACTIVE
-
- +sssshhhyNMMNyssssssssssssyNMMMysssssss+   LLM Core  :: ACTIVE
-
- ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Status    :: ONLINE
-
-```
+</div>
 
 ---
 
@@ -129,37 +111,11 @@ Mission:
 
 # root@bhuvan-ai:~$ modules --status
 
-```text
+<div align="center">
 
-AI Engine
+<img src="./assets/terminal-modules.svg" width="100%" alt="modules status animation"/>
 
-███████████████████████ 100%
-
-LLM Runtime
-
-████████████████████ 95%
-
-Computer Vision
-
-█████████████████████ 98%
-
-Backend
-
-██████████████████ 90%
-
-Frontend
-
-█████████████████ 88%
-
-Cloud
-
-██████████████ 80%
-
-DevOps
-
-████████████ 70%
-
-```
+</div>
 
 ---
 
@@ -225,331 +181,101 @@ DevOps
 
 # root@bhuvan-ai:~$ docker ps
 
-```text
-CONTAINER ID   IMAGE                    STATUS      PORTS      NAME
+<div align="center">
 
-9af3ce12       talentiq:latest          RUNNING     :3000      talentiq-ai
+<img src="./assets/terminal-docker.svg" width="100%" alt="docker ps animation"/>
 
-1ca93dbf       vision-engine:v8         RUNNING     :5000      yolo-runtime
-
-7bc93ffd       desktop-assistant:v2     RUNNING     :8000      ai-assistant
-
-af219af1       ecommerce:v4             RUNNING     :5173      mern-commerce
-
-91cc2eaf       xxe-scanner:v1           RUNNING     :8080      security-engine
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ inspect talentiq-ai
 
-```yaml
-Module:
-    TalentIQ
+<div align="center">
 
-Version:
-    2.3.1
+<img src="./assets/terminal-inspect-talentiq.svg" width="100%" alt="inspect talentiq-ai animation"/>
 
-Status:
-    ONLINE 🟢
-
-Category:
-    Artificial Intelligence
-
-Description:
-    AI-powered interview platform for recruiters
-    featuring resume parsing, coding interviews,
-    AI evaluation and candidate analytics.
-
-Stack:
-    React
-    Node.js
-    PostgreSQL
-    OpenAI
-    Docker
-
-Health:
-    ████████████████████ 100%
-
-Memory:
-    512 MB
-
-CPU:
-    22%
-
-Network:
-    Stable
-
-Logs:
-    No Errors Detected
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ inspect vision-engine
 
-```yaml
-Module:
-    Vision Engine
+<div align="center">
 
-Status:
-    ONLINE 🟢
+<img src="./assets/terminal-inspect-vision.svg" width="100%" alt="inspect vision-engine animation"/>
 
-Engine:
-    YOLOv8
-
-Tracking:
-    ByteTrack
-
-Recognition:
-    Face Recognition
-
-Features:
-    Person Detection
-    Tracking
-    Attendance
-    Dashboard
-    Edge Computing
-
-Framework:
-    PyTorch
-
-FPS:
-    22
-
-Accuracy:
-    98%
-
-GPU:
-    CUDA Enabled
-
-Logs:
-    Running Normally
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ inspect ai-assistant
 
-```yaml
-Module:
-    AI Desktop Assistant
+<div align="center">
 
-Status:
-    ONLINE
+<img src="./assets/terminal-inspect-assistant.svg" width="100%" alt="inspect ai-assistant animation"/>
 
-Functions:
-    Voice Commands
-    ChatGPT
-    Automation
-    File Search
-    App Launcher
-
-Runtime:
-    Python
-
-Speech:
-    Enabled
-
-Automation:
-    Active
-
-Health:
-    Excellent
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ inspect ecommerce
 
-```yaml
-Module:
-    MERN Commerce
+<div align="center">
 
-Status:
-    ONLINE
+<img src="./assets/terminal-inspect-ecommerce.svg" width="100%" alt="inspect ecommerce animation"/>
 
-Frontend:
-    React
-
-Backend:
-    Express
-
-Database:
-    MongoDB
-
-Authentication:
-    JWT
-
-Payments:
-    Stripe
-
-Admin Dashboard:
-    Enabled
-
-Health:
-    Stable
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ inspect security-engine
 
-```yaml
-Module:
-    XXE Injection Scanner
+<div align="center">
 
-Status:
-    ONLINE
+<img src="./assets/terminal-inspect-security.svg" width="100%" alt="inspect security-engine animation"/>
 
-Frontend:
-    React
-
-Backend:
-    Flask
-
-Scanner:
-    XML
-
-Detection:
-    XXE
-    SSRF
-    File Disclosure
-
-Logs:
-    Vulnerabilities Detected Successfully
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ htop
 
-```text
+<div align="center">
 
-CPU
+<img src="./assets/terminal-htop.svg" width="100%" alt="htop animation"/>
 
-███████████████████████ 24%
-
-RAM
-
-██████████████ 38%
-
-Disk
-
-██████████ 31%
-
-GPU
-
-█████████████████ 71%
-
-Network
-
-███████████ 42%
-
-AI Engine
-
-██████████████████████████ 100%
-
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ tree projects
 
-```text
-projects/
+<div align="center">
 
-├── 🤖 TalentIQ/
+<img src="./assets/terminal-tree.svg" width="100%" alt="tree projects animation"/>
 
-│   ├── frontend/
-
-│   ├── backend/
-
-│   ├── ai-engine/
-
-│   ├── docker/
-
-│   └── deployment/
-
-│
-
-├── 👁 Vision-System/
-
-│   ├── yolo/
-
-│   ├── bytetrack/
-
-│   ├── recognition/
-
-│   └── dashboard/
-
-│
-
-├── 🎙 AI-Assistant/
-
-│
-
-├── 🛒 MERN-Commerce/
-
-│
-
-└── 🔒 XXE-Scanner/
-
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ git log --projects
 
-```text
-[2026]
+<div align="center">
 
-✔ TalentIQ Released
+<img src="./assets/terminal-gitlog.svg" width="100%" alt="git log animation"/>
 
-✔ AI Desktop Assistant Completed
-
-✔ YOLO Vision Runtime Upgraded
-
-✔ MERN Commerce Released
-
-✔ XXE Scanner Built
-
-✔ Agent Framework Started
-
-✔ LLM Engineering In Progress
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ cat roadmap.txt
 
-```text
+<div align="center">
 
-2026
+<img src="./assets/terminal-roadmap2026.svg" width="100%" alt="roadmap.txt animation"/>
 
-█████████████████████░░
-
-LLM Engineering
-
-████████████████████░░░
-
-Agentic AI
-
-██████████████████░░░░░
-
-Cloud AI
-
-████████████████░░░░░░░
-
-Kubernetes
-
-██████████████░░░░░░░░░
-
-Open Source
-
-█████████████████░░░░░░
-
-```
+</div>
 
 ---
 
@@ -565,317 +291,114 @@ Open Source
 
 # root@bhuvan-ai:~$ telemetry
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                       AI MISSION CONTROL                            ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  SYSTEM STATUS         🟢 ONLINE                                     ║
-║  AI ENGINE            🟢 ACTIVE                                      ║
-║  LLM CORE             🟢 RUNNING                                     ║
-║  VISION ENGINE        🟢 RUNNING                                     ║
-║  CLOUD                🟢 CONNECTED                                   ║
-║  OPEN SOURCE          🟢 ENABLED                                     ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+<img src="./assets/terminal-telemetry.svg" width="100%" alt="telemetry animation"/>
+
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ watch github
 
-```text
-SYSTEM TELEMETRY
+<div align="center">
 
-Repositories
+<img src="./assets/terminal-watchgithub.svg" width="100%" alt="watch github animation"/>
 
-████████████████████████████████
-
-Commits
-
-██████████████████████████████████████
-
-Pull Requests
-
-██████████████████████████
-
-Issues Solved
-
-████████████████████████████
-
-Code Reviews
-
-██████████████████████
-
-LeetCode
-
-██████████████████████████████
-
-Learning Speed
-
-██████████████████████████████████
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ network
 
-```text
-╔═══════════════════════════════════════════╗
+<div align="center">
 
-Developer Network
+<img src="./assets/terminal-network.svg" width="100%" alt="network animation"/>
 
-GitHub      ● CONNECTED
-
-LinkedIn    ● CONNECTED
-
-LeetCode    ● CONNECTED
-
-Open Source ● CONNECTED
-
-AI Community ● CONNECTED
-
-Status
-
-ONLINE
-
-╚═══════════════════════════════════════════╝
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ nvidia-smi
 
-```text
-+-----------------------------------------------------------------------------+
+<div align="center">
 
-GPU STATUS
+<img src="./assets/terminal-nvidiasmi.svg" width="100%" alt="nvidia-smi animation"/>
 
-Device
-
-RTX AI ENGINE
-
-Temperature
-
-63°C
-
-Power Usage
-
-192W
-
-GPU Usage
-
-██████████████████████████ 88%
-
-Memory
-
-██████████████████ 13GB / 16GB
-
-CUDA
-
-Enabled
-
-Tensor Cores
-
-Active
-
-Inference
-
-Running
-
-+-----------------------------------------------------------------------------+
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ top
 
-```text
-PID     PROCESS                     CPU
+<div align="center">
 
-1024    talentiq-ai                 21%
+<img src="./assets/terminal-top.svg" width="100%" alt="top animation"/>
 
-1025    yolo-runtime                17%
-
-1026    llm-agent                   26%
-
-1027    backend-api                 8%
-
-1028    frontend                    4%
-
-1029    postgres                    3%
-
-1030    docker                      5%
-
-1031    vscode                      16%
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ git status
 
-```text
-On branch main
+<div align="center">
 
-Your branch is ahead of origin/main
+<img src="./assets/terminal-gitstatus.svg" width="100%" alt="git status animation"/>
 
-Changes to be committed
-
-✔ AI Projects
-
-✔ Open Source
-
-✔ Computer Vision
-
-✔ Full Stack Development
-
-✔ LLM Engineering
-
-✔ Agentic AI
-
-✔ Learning Everyday
-
-nothing to commit,
-working tree clean
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ mission
 
-```text
-MISSION OBJECTIVES
+<div align="center">
 
-[✔] Build AI Products
+<img src="./assets/terminal-mission.svg" width="100%" alt="mission animation"/>
 
-[✔] Learn by Building
-
-[✔] Open Source
-
-[✔] Full Stack Engineering
-
-[ ] Launch AI Startup
-
-[ ] Reach 1000 GitHub Stars
-
-[ ] Master Kubernetes
-
-[ ] Become AI Software Engineer
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ cat achievements.log
 
-```text
-2024
+<div align="center">
 
-• Started Building AI Projects
+<img src="./assets/terminal-achievements.svg" width="100%" alt="achievements.log animation"/>
 
-• Computer Vision
-
-• MERN Stack
-
-────────────────────────────
-
-2025
-
-• YOLO Projects
-
-• AI Desktop Assistant
-
-• Full Stack Applications
-
-────────────────────────────
-
-2026
-
-• TalentIQ
-
-• Agentic AI
-
-• LLM Engineering
-
-• Industry Internship
-
-────────────────────────────
-
-NEXT
-
-• AI Startup
-
-• Open Source
-
-• Global Products
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ tail motivation.txt
 
-```text
-while(alive){
+<div align="center">
 
-    Learn();
+<img src="./assets/terminal-motivation.svg" width="100%" alt="motivation.txt animation"/>
 
-    Build();
-
-    Fail();
-
-    Improve();
-
-    Repeat();
-
-}
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ cat currently_running
 
-```text
-🟢 TalentIQ
+<div align="center">
 
-🟢 AI Vision Runtime
+<img src="./assets/terminal-currentlyrunning.svg" width="100%" alt="currently_running animation"/>
 
-🟢 AI Desktop Assistant
-
-🟢 Agentic AI Research
-
-🟢 MERN Development
-
-🟢 LeetCode
-
-🟢 Open Source
-```
+</div>
 
 ---
 
 # root@bhuvan-ai:~$ history
 
-```text
-1  git init
+<div align="center">
 
-2  learn cpp
+<img src="./assets/terminal-history.svg" width="100%" alt="history animation"/>
 
-3  build projects
-
-4  learn python
-
-5  discover AI
-
-6  build computer vision
-
-7  build TalentIQ
-
-8  learn LLMs
-
-9  build agents
-
-10 keep shipping 🚀
-```
+</div>
 
 ---
+
 # root@bhuvan-ai:~$ ssh future
 
 ```text
@@ -899,270 +422,91 @@ AI Operating System
 
 # root@future-ai:~$ roadmap
 
-```text
-MISSION ROADMAP
+<div align="center">
 
-2026
+<img src="./assets/terminal-roadmapfuture.svg" width="100%" alt="future roadmap animation"/>
 
-███████████████████████████
-
-✓ AI Internship
-
-✓ TalentIQ
-
-✓ Agentic AI
-
-✓ LLM Engineering
-
-──────────────────────────────
-
-2027
-
-███████████████████░░░░░░░░░
-
-□ AI SaaS
-
-□ Open Source
-
-□ AI Infrastructure
-
-──────────────────────────────
-
-2028
-
-██████████░░░░░░░░░░░░░░░░░░
-
-□ Multi Agent Platform
-
-□ Cloud AI
-
-□ Kubernetes
-
-──────────────────────────────
-
-2029
-
-███████░░░░░░░░░░░░░░░░░░░░░
-
-□ AI Company
-
-□ Global Products
-
-──────────────────────────────
-
-2030
-
-███░░░░░░░░░░░░░░░░░░░░░░░░░
-
-□ Build AI used by Millions
-
-```
+</div>
 
 ---
 
 # root@future-ai:~$ journalctl
 
-```text
-SYSTEM LOGS
+<div align="center">
 
-[OK] Started AI Journey
+<img src="./assets/terminal-journalctl.svg" width="100%" alt="journalctl animation"/>
 
-[OK] Installed Python Runtime
-
-[OK] Learned Computer Vision
-
-[OK] Built MERN Projects
-
-[OK] Created TalentIQ
-
-[OK] Started LLM Engineering
-
-[OK] Building Agentic AI
-
-[INFO]
-
-Future still compiling...
-```
+</div>
 
 ---
 
 # root@future-ai:~$ ps aux
 
-```text
-USER       PID      PROCESS
+<div align="center">
 
-bhuvan     1001     learning
+<img src="./assets/terminal-psaux.svg" width="100%" alt="ps aux animation"/>
 
-bhuvan     1002     coding
-
-bhuvan     1003     building
-
-bhuvan     1004     debugging
-
-bhuvan     1005     reading
-
-bhuvan     1006     experimenting
-
-bhuvan     1007     deploying
-
-bhuvan     1008     repeating
-```
+</div>
 
 ---
 
 # root@future-ai:~$ env
 
-```text
-AI_ENGINE=ACTIVE
+<div align="center">
 
-VISION_ENGINE=ACTIVE
+<img src="./assets/terminal-env.svg" width="100%" alt="env animation"/>
 
-LLM_RUNTIME=ACTIVE
-
-COFFEE_LEVEL=HIGH
-
-BUILD_MODE=ON
-
-BUGS=EXPECTED
-
-LEARNING=NEVER_STOP
-
-MISSION=BUILD_REAL_PRODUCTS
-```
+</div>
 
 ---
 
 # root@future-ai:~$ cat philosophy.md
 
-```cpp
-while(true){
+<div align="center">
 
-    Learn();
+<img src="./assets/terminal-philosophy.svg" width="100%" alt="philosophy.md animation"/>
 
-    Build();
-
-    Share();
-
-    Improve();
-
-}
-```
+</div>
 
 ---
 
 # root@future-ai:~$ cat skills.db
 
-```sql
-SELECT * FROM skills;
+<div align="center">
 
-+----------------------+-----------+
+<img src="./assets/terminal-skillsdb.svg" width="100%" alt="skills.db animation"/>
 
-| AI Engineering       | ACTIVE    |
-
-| Machine Learning     | ACTIVE    |
-
-| Computer Vision      | ACTIVE    |
-
-| Full Stack           | ACTIVE    |
-
-| Cloud                | LEARNING  |
-
-| DevOps               | LEARNING  |
-
-| Kubernetes           | LEARNING  |
-
-| Agentic AI           | ACTIVE    |
-
-+----------------------+-----------+
-```
+</div>
 
 ---
 
 # root@future-ai:~$ cat now_playing
 
-```text
-🎧 Currently Building
+<div align="center">
 
-▶ TalentIQ
+<img src="./assets/terminal-nowplaying.svg" width="100%" alt="now_playing animation"/>
 
-▶ AI Vision Runtime
-
-▶ Multi-Agent Systems
-
-▶ LLM Engineering
-
-▶ Production AI APIs
-
-▶ LeetCode
-
-▶ Open Source
-```
+</div>
 
 ---
 
 # root@future-ai:~$ ping github
 
-```text
-PING github.com
+<div align="center">
 
-64 bytes from github.com
+<img src="./assets/terminal-ping.svg" width="100%" alt="ping github animation"/>
 
-time=14ms
-
-Status
-
-CONNECTED
-
-Packets
-
-Received
-
-100%
-
-Lost
-
-0%
-
-Developer Status
-
-ONLINE
-```
+</div>
 
 ---
 
 # root@future-ai:~$ uname -a
 
-```text
-AI Operating System
+<div align="center">
 
-Version
+<img src="./assets/terminal-uname.svg" width="100%" alt="uname -a animation"/>
 
-5.0.0
-
-Architecture
-
-x86_64
-
-Kernel
-
-Neural Engine
-
-Language
-
-Python
-
-Compiler
-
-Coffee++
-
-License
-
-Open Source
-
-Maintainer
-
-Bhuvan Madhusudhan
-```
+</div>
 
 ---
 

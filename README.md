@@ -329,24 +329,11 @@
 
 ---
 
-# root@bhuvan-ai:~$ ssh future
+<div align="center">
 
-```text
-Connecting to Future...
+<img src="./assets/terminal-sshfuture.svg" width="100%" alt="ssh future animation"/>
 
-Authenticating...
-
-█████████████████████████████████████
-
-Authentication Successful
-
-Welcome to
-
-2030
-
-AI Operating System
-
-```
+</div>
 
 ---
 
@@ -434,25 +421,11 @@ AI Operating System
 
 ---
 
-# root@future-ai:~$ exit
+<div align="center">
 
-```text
-Saving Session...
+<img src="./assets/terminal-exit.svg" width="100%" alt="exit sequence animation"/>
 
-Syncing Projects...
-
-Uploading Commits...
-
-Closing Terminal...
-
-Connection Closed.
-
-Thanks for visiting.
-
-See you in the next commit.
-
-root@bhuvan-ai:~$
-```
+</div>
 
 <div align="center">
 

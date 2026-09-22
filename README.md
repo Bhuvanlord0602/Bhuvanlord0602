@@ -43,43 +43,19 @@
 
 ---
 
-# root@bhuvan-ai:~$ whoami
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Full+Stack+Developer;B.Tech+CSE+%40+RV+University%2C+Bengaluru;Building+Agentic+AI+%26+LLM+Systems;Computer+Vision+%2B+MLOps+Enthusiast;Currently%3A+AI+Engineer+Intern+%40+Nicomatic)](https://git.io/typing-svg)
 
 </div>
 
-```yaml
-Developer:
-  Name: Bhuvan Madhusudhan
+<div align="center">
 
-Role:
-  AI Engineer
-  Full Stack Developer
+<img src="./assets/terminal-whoami.svg" width="100%" alt="whoami animation"/>
 
-Education:
-  B.Tech Computer Science
-  Artificial Intelligence & Machine Learning
-
-Location:
-  Bengaluru, India
-
-Current Focus:
-  - Agentic AI
-  - LLM Engineering
-  - Computer Vision
-  - Multi-Agent Systems
-  - MLOps
-
-Mission:
-  Build AI products that solve real-world problems.
-```
+</div>
 
 ---
-
-# root@bhuvan-ai:~$ neofetch
 
 <div align="center">
 
@@ -88,8 +64,6 @@ Mission:
 </div>
 
 ---
-
-# root@bhuvan-ai:~$ systemctl status
 
 <div align="center">
 
@@ -108,8 +82,6 @@ Mission:
 </div>
 
 ---
-
-# root@bhuvan-ai:~$ modules --status
 
 <div align="center">
 
@@ -179,8 +151,6 @@ Mission:
 
 ---
 
-# root@bhuvan-ai:~$ docker ps
-
 <div align="center">
 
 <img src="./assets/terminal-docker.svg" width="100%" alt="docker ps animation"/>
@@ -188,8 +158,6 @@ Mission:
 </div>
 
 ---
-
-# root@bhuvan-ai:~$ inspect talentiq-ai
 
 <div align="center">
 
@@ -199,8 +167,6 @@ Mission:
 
 ---
 
-# root@bhuvan-ai:~$ inspect vision-engine
-
 <div align="center">
 
 <img src="./assets/terminal-inspect-vision.svg" width="100%" alt="inspect vision-engine animation"/>
@@ -208,8 +174,6 @@ Mission:
 </div>
 
 ---
-
-# root@bhuvan-ai:~$ inspect ai-assistant
 
 <div align="center">
 
@@ -219,8 +183,6 @@ Mission:
 
 ---
 
-# root@bhuvan-ai:~$ inspect ecommerce
-
 <div align="center">
 
 <img src="./assets/terminal-inspect-ecommerce.svg" width="100%" alt="inspect ecommerce animation"/>
@@ -228,8 +190,6 @@ Mission:
 </div>
 
 ---
-
-# root@bhuvan-ai:~$ inspect security-engine
 
 <div align="center">
 
@@ -239,8 +199,6 @@ Mission:
 
 ---
 
-# root@bhuvan-ai:~$ htop
-
 <div align="center">
 
 <img src="./assets/terminal-htop.svg" width="100%" alt="htop animation"/>
@@ -248,8 +206,6 @@ Mission:
 </div>
 
 ---
-
-# root@bhuvan-ai:~$ tree projects
 
 <div align="center">
 
@@ -259,8 +215,6 @@ Mission:
 
 ---
 
-# root@bhuvan-ai:~$ git log --projects
-
 <div align="center">
 
 <img src="./assets/terminal-gitlog.svg" width="100%" alt="git log animation"/>
@@ -268,8 +222,6 @@ Mission:
 </div>
 
 ---
-
-# root@bhuvan-ai:~$ cat roadmap.txt
 
 <div align="center">
 
@@ -289,8 +241,6 @@ Mission:
 
 ---
 
-# root@bhuvan-ai:~$ telemetry
-
 <div align="center">
 
 <img src="./assets/terminal-telemetry.svg" width="100%" alt="telemetry animation"/>
@@ -298,8 +248,6 @@ Mission:
 </div>
 
 ---
-
-# root@bhuvan-ai:~$ watch github
 
 <div align="center">
 
@@ -309,8 +257,6 @@ Mission:
 
 ---
 
-# root@bhuvan-ai:~$ network
-
 <div align="center">
 
 <img src="./assets/terminal-network.svg" width="100%" alt="network animation"/>
@@ -318,8 +264,6 @@ Mission:
 </div>
 
 ---
-
-# root@bhuvan-ai:~$ nvidia-smi
 
 <div align="center">
 
@@ -329,8 +273,6 @@ Mission:
 
 ---
 
-# root@bhuvan-ai:~$ top
-
 <div align="center">
 
 <img src="./assets/terminal-top.svg" width="100%" alt="top animation"/>
@@ -338,8 +280,6 @@ Mission:
 </div>
 
 ---
-
-# root@bhuvan-ai:~$ git status
 
 <div align="center">
 
@@ -349,8 +289,6 @@ Mission:
 
 ---
 
-# root@bhuvan-ai:~$ mission
-
 <div align="center">
 
 <img src="./assets/terminal-mission.svg" width="100%" alt="mission animation"/>
@@ -358,8 +296,6 @@ Mission:
 </div>
 
 ---
-
-# root@bhuvan-ai:~$ cat achievements.log
 
 <div align="center">
 
@@ -369,8 +305,6 @@ Mission:
 
 ---
 
-# root@bhuvan-ai:~$ tail motivation.txt
-
 <div align="center">
 
 <img src="./assets/terminal-motivation.svg" width="100%" alt="motivation.txt animation"/>
@@ -379,8 +313,6 @@ Mission:
 
 ---
 
-# root@bhuvan-ai:~$ cat currently_running
-
 <div align="center">
 
 <img src="./assets/terminal-currentlyrunning.svg" width="100%" alt="currently_running animation"/>
@@ -388,8 +320,6 @@ Mission:
 </div>
 
 ---
-
-# root@bhuvan-ai:~$ history
 
 <div align="center">
 
@@ -420,8 +350,6 @@ AI Operating System
 
 ---
 
-# root@future-ai:~$ roadmap
-
 <div align="center">
 
 <img src="./assets/terminal-roadmapfuture.svg" width="100%" alt="future roadmap animation"/>
@@ -429,8 +357,6 @@ AI Operating System
 </div>
 
 ---
-
-# root@future-ai:~$ journalctl
 
 <div align="center">
 
@@ -440,8 +366,6 @@ AI Operating System
 
 ---
 
-# root@future-ai:~$ ps aux
-
 <div align="center">
 
 <img src="./assets/terminal-psaux.svg" width="100%" alt="ps aux animation"/>
@@ -449,8 +373,6 @@ AI Operating System
 </div>
 
 ---
-
-# root@future-ai:~$ env
 
 <div align="center">
 
@@ -460,8 +382,6 @@ AI Operating System
 
 ---
 
-# root@future-ai:~$ cat philosophy.md
-
 <div align="center">
 
 <img src="./assets/terminal-philosophy.svg" width="100%" alt="philosophy.md animation"/>
@@ -469,8 +389,6 @@ AI Operating System
 </div>
 
 ---
-
-# root@future-ai:~$ cat skills.db
 
 <div align="center">
 
@@ -480,8 +398,6 @@ AI Operating System
 
 ---
 
-# root@future-ai:~$ cat now_playing
-
 <div align="center">
 
 <img src="./assets/terminal-nowplaying.svg" width="100%" alt="now_playing animation"/>
@@ -490,8 +406,6 @@ AI Operating System
 
 ---
 
-# root@future-ai:~$ ping github
-
 <div align="center">
 
 <img src="./assets/terminal-ping.svg" width="100%" alt="ping github animation"/>
@@ -499,8 +413,6 @@ AI Operating System
 </div>
 
 ---
-
-# root@future-ai:~$ uname -a
 
 <div align="center">
 
